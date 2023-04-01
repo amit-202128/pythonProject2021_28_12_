@@ -1,5 +1,5 @@
-,c,d,h,j,l,o,r,r,s,a,s
-0,Infosys,12-jan-22,Niveditha,,singapore,Infosys_India,AWS Develope_Lambda_Infosys_India,AWS Develope_Lambda_Infosys_India,UAE,AWS data,UAE
-1,Delloite,25-feb-21,bijal.shah,,bangalore,,Big Data / Pyspark Development - Leading Co. - Bangalore,Big Data / Pyspark Development - Leading Co. - Bangalore,karnataka,AWS data,karnataka
-2,Capgemini,16-july-22,Shanya Jain,,gujrat,,BIG DATA DEVELOPER,BIG DATA DEVELOPER,USA,AWS data,USA
-3,KPMG,15-aug-22,,,bangalore / pune,KPMG Global Services,Job Title - Cloud Data Engineer,Job Title - Cloud Data Engineer,UK,"AWS data , Spark or PySpark , Hive , Big Data , Python , Scala , SQL , Data lake , data warehouse ",UK
+client,date_of_leaving,hr,jd,locate,onsite,role,revenue_billing,state,acredition,solo_client
+Infosys,12-jan-22,Niveditha,,singapore,Infosys_India,AWS Develope_Lambda_Infosys_India,AWS Develope_Lambda_Infosys_India,UAE,AWS data,UAE
+Delloite,25-feb-21,bijal.shah,,bangalore,,Big Data / Pyspark Development - Leading Co. - Bangalore,Big Data / Pyspark Development - Leading Co. - Bangalore,karnataka,AWS data,karnataka
+Capgemini,16-july-22,Shanya Jain,,gujrat,,BIG DATA DEVELOPER,BIG DATA DEVELOPER,USA,AWS data,USA
+KPMG,15-aug-22,,,bangalore / pune,KPMG Global Services,Job Title - Cloud Data Engineer,Job Title - Cloud Data Engineer,UK,"AWS data , Spark or PySpark , Hive , Big Data , Python , Scala , SQL , Data lake , data warehouse ",UK
